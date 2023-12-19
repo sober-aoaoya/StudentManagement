@@ -1,0 +1,11 @@
+﻿  CEntranceDlg.cpp
+  CStudentallfindDlg.cpp
+F:\C++实验\Cpp_experiment\StudentManagement\CStudentallfindDlg.cpp(53,11): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  CStudentdeleteDlg.cpp
+  CStudenteditDlg.cpp
+  CStudententranceDlg.cpp
+  CStudentlookforDlg.cpp
+  StudentManagement.cpp
+  StudentManagementDlg.cpp
+  正在生成代码...
+  StudentManagement.vcxproj -> F:\C++实验\Cpp_experiment\StudentManagement\x64\Debug\StudentManagement.exe
