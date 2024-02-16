@@ -1,3 +1,0 @@
-# StudentManagement
-# 基于MFC的学生管理系统
-来自世界上最好的大学WUT里全宇宙最强的嵌入式爷lxh催促下的作品
